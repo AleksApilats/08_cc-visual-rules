@@ -1,0 +1,34 @@
+img {
+    height: 50px;
+    opacity: 0.5;
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    background-color: lightcyan;
+    background-image: url('https://newevolutiondesigns.com/images/freebies/nature-hd-background-15.jpg');
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+main {
+    text-align: right;
+}
+
+a {
+    color: white;
+}
+
+nav {
+    /* background-color: black;
+    opacity: 0.5; */
+    background-color: rgba(0,0,0,0.5) 
+}
